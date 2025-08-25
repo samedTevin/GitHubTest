@@ -1,0 +1,3 @@
+ikinci branch'teyiz.
+
+Bu konuyuda bitirdik (push).
